@@ -3,7 +3,7 @@
         {
             "ip": "192.168.1.1",
             "os": "Windows",
-            "credentials": "env:WINDOWS_PASS"  # Referencia a variable de entorno
+            "credentials": "env:WINDOWS_PASS" 
         },
         {
             "ip": "192.168.1.2",
